@@ -28,6 +28,7 @@ gswin64c -dNOPAUSE -dQUIET -dBATCH -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -dColo
 8. Keterangan tambahan 
 
 out.pdf adalah hasil pdf yang TELAH DIKECILKAN
+
 file.pdf adalah file pdf yang AKAN DIKECILKAN
 
 untuk nama file pdf yang akan dikecilkan JANGAN ADA SPASI
